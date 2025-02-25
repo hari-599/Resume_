@@ -90,15 +90,35 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: CSIR Central Electrochemical Research Institute, Ministry of Science and Technology, India
+        link: www.cecri.res.in
+        caption: 2021 - Present
+        sub_title: PhD in Physics
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Gandhigram Rural University-Ministry of Education, Govt. of India
+        link: https://www.ruraluniv.ac.in/
+        caption: 2018 - 2020
+        sub_title: Msc in Physics
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: University of Calicut, Higher Education Department, Govt. of Kerala, India
+        link: https://uoc.ac.in/
+        caption: 2014 - 2017
+        sub_title: Bsc in Physics
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      
+      
+  
 
   - title: A Little More About Me
     layout: text
