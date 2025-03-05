@@ -59,7 +59,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
+        title: Morphologically Tailored Modified Transition Metal Based Bifunctional Catalysts for Overall Water Splitting: A Comprehensive Experimental and Theoretical Study
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -69,11 +69,27 @@ content:
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Aligned with the *Green Hydrogen Mission*, my work focuses on designing and fabricating nanocomposites with tailored structures using strategies like doping, heterostructure engineering, and composite formation. I aim to develop cost-effective, eco-friendly transition metal oxides as bifunctional catalysts for electrocatalytic water splitting, offering a sustainable alternative to platinum- and ruthenium-based catalysts.
 
+          Alongside experiments, I use Density Functional Theory (DFT) to study the structural, mechanical, and electronic properties of these materials, ensuring a comprehensive experimental and theoretical approach.
+   
+    content:
+      - layout: top-middle
+        title: Triggering of Solar Flares due to Sunspot Growth
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+         For my postgraduate project, I conducted an in-depth study on the triggering of solar flares due to sunspot growth under the guidance of Dr. Selvendran, Principal Scientific Officer at the Kodaikanal Solar Observatory, from September 2019 to February 2020 at the Indian Institute of Astrophysics.
+
+          This research analyzed how the evolution and transformation of sunspot groups contribute to the formation of different types of solar flares (e.g., 2b, 1n, Sn, and 2f). Additionally, it explored the structural significance of the Sun, the dynamic phenomena across its various layers, and their potential impact on Earth.
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
