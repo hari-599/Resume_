@@ -59,7 +59,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Morphologically Tailored Modified Transition Metal Based Bifunctional Catalysts for Overall Water Splitting, A Comprehensive Experimental and Theoretical Study
+        title: Design and Fabrication of Nanocomposites for Bifunctional Electrocatalysis
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
