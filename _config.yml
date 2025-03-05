@@ -50,8 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am an interdisciplinary researcher dedicated to designing and fabricating morphologically tailored nanomaterials for bifunctional electrocatalysis in water splitting applications. My work focuses on enhancing the performance of transition metal-based systems through strategic modifications, including heterojunction formation, doping, and other advanced techniques, and I utilize density functional theory (DFT) calculations to gain detailed insights into the structural and electronic properties of the materials.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  I am most skilled in: <mark>Nanomaterial synthesis</mark>, <mark>Data analysis and Data Interpretation</mark>,<mark> Microsoft Windows</mark> and <mark>Linux and Shell Scripting</mark>
+  Areas of Interest: <mark>Photoelectrocatalysis</mark>, <mark>Electrocatalytic Water Splitting</mark>,<mark> Heterostructure Architecture</mark>, <mark>Nanomaterial synthesis and structural engineering</mark> and <mark>Density Functional Theory</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
