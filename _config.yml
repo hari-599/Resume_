@@ -22,10 +22,9 @@ github_username:  sproogen
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: jameswgrant
-linkedin_username: jameswgrant
+linkedin_username: ardra-s-darsan
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -107,7 +106,7 @@ content:
         sub_title: Msc in Physics
         description: | # this will include new lines to allow paragraphs
           I completed my M.Sc. in Physical Sciences from 2018 to 2020, achieving First Class with Distinction and securing the University 1st Rank with a Gold Medal. During this time, I also participated in the 7th IIST Astronomy and Astrophysics School, held at the Indian Institute of Space Science and Technology (IIST), Trivandrum, from December 10 to 19, 2018. I undertook a six-month research project at the Kodaikanal Solar Observatory, from September 2019 to February 2020, at the Indian Institute of Astrophysics.
-          
+
       - layout: left
         title: University of Calicut, Higher Education Department, Govt. of Kerala, India
         link: https://uoc.ac.in/
