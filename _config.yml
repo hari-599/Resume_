@@ -70,9 +70,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          My PhD work titled **Morphologically Tailored Modified Transition Metal Based Bifunctional Catalysts for Overall Water Splitting: A Comprehensive Experimental and Theoretical Study**, aligned with the **Green Hydrogen Mission**, my work focuses on designing and fabricating nanocomposites with tailored structures using strategies like doping, heterostructure engineering, and composite formation. I aim to develop cost-effective, eco-friendly transition metal oxides as bifunctional catalysts for electrocatalytic water splitting, offering a sustainable alternative to platinum- and ruthenium-based catalysts.
+          My PhD work titled **Morphologically Tailored Modified Transition Metal Based Bifunctional Catalysts for Overall Water Splitting: A Comprehensive Experimental and Theoretical Study**, aligned with the **Green Hydrogen Mission**, my work focuses on designing and fabricating nanocomposites with tailored structures using strategies like **doping, heterostructure engineering, and composite formation**. I aim to develop **cost-effective, eco-friendly transition metal oxides** as bifunctional catalysts for **electrocatalytic water splitting**, offering a sustainable alternative to platinum- and ruthenium-based catalysts.
 
-          Alongside experiments, I use Density Functional Theory (DFT) to study the structural, mechanical, and electronic properties of these materials, ensuring a comprehensive experimental and theoretical approach.
+          Alongside experiments, I use **Density Functional Theory (DFT)** to study the **structural, mechanical, and electronic properties** of these materials, ensuring a comprehensive experimental and theoretical approach.
       - layout: top-middle
         title: Triggering of Solar Flares due to Sunspot Growth
         link: github.com/sproogen
@@ -85,9 +85,23 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-         For my postgraduate project, I conducted an in-depth study on the triggering of solar flares due to sunspot growth under the guidance of Dr. Selvendran, Principal Scientific Officer at the Kodaikanal Solar Observatory, from September 2019 to February 2020 at the Indian Institute of Astrophysics.
+         For my postgraduate project, I conducted an in-depth study on the **triggering of solar flares due to sunspot** growth under the guidance of Dr. Selvendran, Principal Scientific Officer at the Kodaikanal Solar Observatory, from September 2019 to February 2020 at the **Indian Institute of Astrophysics**.
 
-          This research analyzed how the evolution and transformation of sunspot groups contribute to the formation of different types of solar flares (e.g., 2b, 1n, Sn, and 2f). Additionally, it explored the structural significance of the Sun, the dynamic phenomena across its various layers, and their potential impact on Earth.
+          This research analyzed how the **evolution and transformation of sunspot groups** contribute to the formation of different types of **solar flares (e.g., 2b, 1n, Sn, and 2f)**. Additionally, it explored the structural significance of the Sun, the dynamic phenomena across its various layers, and their potential impact on Earth.
+      - layout: top-middle
+        title: Analysis of Various Astronomical Parameters Using Virtual Observatory
+        link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+         My undergraduate project, titled "Analysis of Various Astronomical Parameters Using Virtual Observatory," was conducted under the guidance of Dr Kishan Kumar at Calicut University from 2016-2017. This project involved analyzing astronomical data by tabulating information, plotting graphs, and studying parameters related to the characteristics of celestial objects such as galaxies, white dwarfs, and variable stars. The data was obtained from the CDS Strasbourg Data Center and analyzed using the Topcat software program.
+         
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
