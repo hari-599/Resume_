@@ -163,24 +163,52 @@ content:
       - Gaming
       - Knitting
   - title: Gallery
-    layout: gallery
-    content:
-      - image: images/00d148f6-f324-4502-bce9-f0c88e6942fc.JPG
-        caption: Research setup at the lab
-      - image: images/IMG_1354.jpg
-        caption: Conference poster presentation
-      - image: images/IMG_1385.jpg
-        caption: Catalyst characterization snapshot
-      - image: images/IMG_2885.jpg
-        caption: Group discussion on synthesis techniques
-      - image: images/IMG_8999.jpg
-        caption: SEM results on cobaltite structure
-      - image: images/IMG_9029.jpg
-        caption: DFT simulation in progress
-      - image: images/photo7.jpg
-        caption: Collaborative experiment with teammates
-      - image: images/photo8.jpg
-        caption: Field trip to research facility
+    layout: text
+    content: |
+      <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images/IMG_1354.jpg" alt="Lab Setup" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Research setup at the lab</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images/IMG_1385.jpg" alt="Poster Presentation" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Poster presentation</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images/IMG_2885.jpg" alt="Catalyst Snapshot" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Catalyst synthesis snapshot</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images/IMG_8999.jpg" alt="Group Discussion" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Group discussion on techniques</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images/IMG_9029.jpg" alt="SEM Results" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>SEM results on cobaltite</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images\00d148f6-f324-4502-bce9-f0c88e6942fc.JPG" alt="DFT Simulation" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>DFT simulation in progress</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images/photo7.jpg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Team collaboration</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images/photo8.jpg" alt="Research Facility" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Visit to research facility</p>
+      </div>
+
+      </div>
+
 
 # Footer
 footer_show_references: true
