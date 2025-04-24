@@ -27,9 +27,9 @@ linkedin_username: ardra-s-darsan
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -57,12 +57,12 @@ content:
     content:
       - layout: top-middle
         title: PhD Research
-        link: github.com/sproogen
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -72,12 +72,12 @@ content:
           Alongside experiments, I use **Density Functional Theory (DFT)** to study the **structural, mechanical, and electronic properties** of these materials, ensuring a comprehensive experimental and theoretical approach.
       - layout: top-middle
         title: Triggering of Solar Flares due to Sunspot Growth
-        link: github.com/sproogen
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -87,12 +87,12 @@ content:
           This research analyzed how the **evolution and transformation of sunspot groups** contribute to the formation of different types of **solar flares (e.g., 2b, 1n, Sn, and 2f)**. Additionally, it explored the structural significance of the Sun, the dynamic phenomena across its various layers, and their potential impact on Earth.
       - layout: top-middle
         title: Analysis of Various Astronomical Parameters Using Virtual Observatory
-        link: github.com/sproogen
+        # link: github.com/sproogen
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            # icon: fab fa-github
+            # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -126,8 +126,39 @@ content:
         description: | # this will include new lines to allow paragraphs
           During my undergraduate years, I actively engaged in a variety of cultural and scientific activities. I took part in university-level cultural festivals and attended robotics workshops organized by the Indian Institute of Technology, Chennai. Additionally, I held the role of Fine Arts secretary and served as the editor of the college magazine.
       
-      
-  
+  - title: Publications
+    layout: list
+    content:
+      - layout: left
+        title: "A. S. Darsan, P. Murugan, A. Pandikumar, and S. K. Sinha, **Morphologically Tailored Modified Transition Metal Based Bifunctional Catalysts for Overall Water Splitting: A Comprehensive Experimental and Theoretical Study**"
+        link: https://doi.org/10.1016/j.jcat.2023.01.014
+        caption: Journal of Catalysis, 2023
+
+      - layout: left
+        title: "Ardra S. Darsan, C. Karthick, P. Kiruthieek, P. Murugan, A. Pandikumar, **Harnessing Bimetallic Spinel Cobaltite with Hematite for Electrocatalytic Overall Water Splitting: A Combined Experimental and Theoretical Study**"
+        link: # Add link (e.g., DOI)
+        caption: Journal of Colloid and Interface Science, 2025
+
+      - layout: left
+        title: "Ardra S. Darsan, P. Devi, P. Murugan, A. Pandikumar, **From One-Pot to Powerhouse: Al-Fe2O3 Thin Films Coupled with Hexagonal ZnFe LDH for Water Oxidation in Alkaline Environment**"
+        link: # Add link (e.g., DOI)
+        caption: ACS Applied Materials & Interfaces, 2024
+
+      - layout: left
+        title: "Ardra S. Darsan, A. Pandikumar, **Recent Research Progress on Metal Halide Perovskite-Based Visible Light Active Photoanode for Photoelectrochemical Water Splitting**"
+        link: # Add link (e.g., DOI)
+        caption: Materials Science in Semiconductor Processing, 2024
+
+      - layout: left
+        title: "K. N. Sathya Sai, Ardra S. Darsan, K. Wang, A. Pandikumar, S. M. Venkatakrishnan, Z. Hong, **OH-enriched NiS/Ni₃S₂–Zr Heterostructure for Overall Water Splitting Performance in Alkaline Media**"
+        link: # Add link (e.g., DOI)
+        caption: ACS Applied Nano Materials, 2024
+
+      - layout: left
+        title: "Ardra S. Darsan, P. Murugan, A. Pandikumar, **Exploring Robust Electrocatalyst with Morphologically Tailored Spinel Cobaltite Nanostructures: An Experimental and Theoretical Insights**"
+        link: # Add link (e.g., NANOEN-D-25-02098 or final DOI)
+        caption: Nano Energy (Under Review)
+
 
   - title: A Little More About Me
     layout: text
