@@ -197,10 +197,10 @@ content:
         <p>DFT simulation in progress</p>
       </div>
 
-      # <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-      #   <img src="images/photo7.jpg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
-      #   <p>Team collaboration</p>
-      # </div>
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images\IMG_9000.JPG" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Team collaboration</p>
+      </div>
 
       # <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
       #   <img src="images/photo8.jpg" alt="Research Facility" style="width: 100%; max-width: 100%; border-radius: 8px;">
