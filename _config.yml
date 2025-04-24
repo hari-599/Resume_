@@ -173,7 +173,7 @@ content:
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/IMG_1385.jpg" alt="Poster Presentation" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <img src="images/IMG_9029.jpg" alt="Poster Presentation" style="width: 100%; max-width: 100%; border-radius: 8px;">
         <p>Poster presentation</p>
       </div>
 
@@ -188,7 +188,7 @@ content:
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/IMG_9029.jpg" alt="SEM Results" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <img src="images/IMG_1385.jpg" alt="SEM Results" style="width: 100%; max-width: 100%; border-radius: 8px;">
         <p>SEM results on cobaltite</p>
       </div>
 
@@ -197,15 +197,15 @@ content:
         <p>DFT simulation in progress</p>
       </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/photo7.jpg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Team collaboration</p>
-      </div>
+      # <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+      #   <img src="images/photo7.jpg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
+      #   <p>Team collaboration</p>
+      # </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/photo8.jpg" alt="Research Facility" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Visit to research facility</p>
-      </div>
+      # <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+      #   <img src="images/photo8.jpg" alt="Research Facility" style="width: 100%; max-width: 100%; border-radius: 8px;">
+      #   <p>Visit to research facility</p>
+      # </div>
 
       </div>
 
