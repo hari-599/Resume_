@@ -155,13 +155,13 @@ content:
         caption: Nano Energy (Under Review)
 
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
   - title: Gallery
     layout: text
     content: |
@@ -202,10 +202,7 @@ content:
         <p>Team collaboration</p>
       </div>
 
-      # <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-      #   <img src="images/photo8.jpg" alt="Research Facility" style="width: 100%; max-width: 100%; border-radius: 8px;">
-      #   <p>Visit to research facility</p>
-      # </div>
+
 
       </div>
 
