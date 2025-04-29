@@ -263,6 +263,10 @@ content:
         <img src="images\IMG_1003.jpeg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
         <p>Research setup</p>
       </div>
+            <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images\Picture1.jpg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Received Gold Medal by the Prime Minister of India for securing the First Rank in the university for M.Sc. in Physics.</p>
+      </div>
 
 
 
