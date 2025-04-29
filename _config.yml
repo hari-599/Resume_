@@ -130,29 +130,29 @@ content:
     layout: list
     content:
       - layout: top
-        title: "Ardra S. Darsan, C. Karthick, P. Kiruthieek, P. Murugan, A. Pandikumar, Harnessing Bimetallic Spinel Cobaltite with Hematite for Electrocatalytic Overall Water Splitting: A Combined Experimental and Theoretical Study"
+        title: ""
         link: https://www.sciencedirect.com/science/article/abs/pii/S0021979725003443
-        caption: Journal of Colloid and Interface Science, 2025, 686, 743-753
+        caption: Ardra S. Darsan, C. Karthick, P. Kiruthieek, P. Murugan, A. Pandikumar, *Harnessing Bimetallic Spinel Cobaltite with Hematite for Electrocatalytic Overall Water Splitting: A Combined Experimental and Theoretical Study*, Journal of Colloid and Interface Science, 2025, 686, 743–753
 
       - layout: top
-        title: "Ardra S. Darsan, P. Devi, P. Murugan, A. Pandikumar, From One-Pot to Powerhouse: Al-Fe2O3 Thin Films Coupled with Hexagonal ZnFe LDH for Water Oxidation in Alkaline Environment"
+        title: ""
         link: https://pubs.acs.org/doi/abs/10.1021/acsami.4c12180
-        caption: ACS Applied Materials Interfaces, 16, 39, 52515–52528
+        caption: Ardra S. Darsan, P. Devi, P. Murugan, A. Pandikumar, *From One-Pot to Powerhouse: Al-Fe<sub>2</sub>O<sub>3</sub> Thin Films Coupled with Hexagonal ZnFe LDH for Water Oxidation in Alkaline Environment*, ACS Applied Materials Interfaces, 2024, 16(39), 52515–52528
 
       - layout: top
-        title: "Ardra S. Darsan, A. Pandikumar, Recent Research Progress on Metal Halide Perovskite-Based Visible Light Active Photoanode for Photoelectrochemical Water Splitting"
+        title: ""
         link: https://www.sciencedirect.com/science/article/abs/pii/S1369800124000994
-        caption: Materials Science in Semiconductor Processing, 2024, 174,108203
+        caption: Ardra S. Darsan, A. Pandikumar, *Recent Research Progress on Metal Halide Perovskite-Based Visible Light Active Photoanode for Photoelectrochemical Water Splitting*, Materials Science in Semiconductor Processing, 2024, 174, 108203
 
       - layout: top
-        title: "K. N. Sathya Sai, Ardra S. Darsan, K. Wang, A. Pandikumar, S. M. Venkatakrishnan, Z. Hong, OH-enriched NiS/Ni₃S₂–Zr Heterostructure for Overall Water Splitting Performance in Alkaline Media"
+        title: ""
         link: https://pubs.acs.org/doi/10.1021/acsanm.4c01502
-        caption: ACS Applied Nano Materials, 2024, 7,10, 11931-11941
+        caption: K. N. Sathya Sai, Ardra S. Darsan, K. Wang, A. Pandikumar, S. M. Venkatakrishnan, Z. Hong, *OH-enriched NiS/Ni<sub>3</sub>S<sub>2</sub>–Zr Heterostructure for Overall Water Splitting Performance in Alkaline Media*, ACS Applied Nano Materials, 2024, 7(10), 11931–11941
 
       - layout: top
-        title: "Ardra S. Darsan, P. Murugan, A. Pandikumar, Exploring Robust Electrocatalyst with Morphologically Tailored Spinel Cobaltite Nanostructures: An Experimental and Theoretical Insights"
+        title: ""
         link: # Add link (e.g., NANOEN-D-25-02098 or final DOI)
-        caption: Journal of Materials Chemistry A (Under Review)
+        caption: Ardra S. Darsan, P. Murugan, A. Pandikumar, *Exploring Robust Electrocatalyst with Morphologically Tailored Spinel Cobaltite Nanostructures: An Experimental and Theoretical Insights*, Journal of Materials Chemistry A (Under Review)
 
   - title: Awards, Grants and Fellowships
     layout: text
