@@ -50,7 +50,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   My Areas of Interest: <mark>Photoelectrocatalysis</mark>, <mark>Electrocatalytic Water Splitting</mark>, <mark>Heterostructure Architecture</mark>, <mark>Nanomaterial Synthesis and Structural Engineering</mark>, and <mark>Density Functional Theory</mark>
 
-  Technical Tools and Software:<mark>Origin</mark>, <mark>X’Pert HighScore Plus</mark>, <mark>GSAS</mark>, <mark>CasaXPS</mark>, <mark>ImageJ</mark>, <mark>EC-lab</mark>, <mark>Quantum Espresso</mark>, <mark>OrigaMaster</mark>, <mark>Materials Studio</mark>, <mark>VESTA</mark>, and <mark>VASP</mark>
+  Technical Tools and Software:<mark>Origin</mark>, <mark>X’Pert HighScore Plus</mark>, <mark>GSAS</mark>, <mark>CasaXPS</mark>, <mark>ImageJ</mark>, <mark>EC-lab</mark>, <mark>OrigaMaster</mark>, <mark>Materials Studio</mark>, <mark>VESTA</mark>, and <mark>VASP</mark>
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -108,7 +108,7 @@ content:
         caption: 2021 - Present
         sub_title: PhD in Physics
         description: | # this will include new lines to allow paragraphs
-          I am currently doing PhD in Physical Science through the Academy of Scientific and Innovative Research (AcSIR) at CSIR Central Electrochemical Research Institute (CECRI), as a Department of Science and Technology (DST) sponsored senior research fellow under the scheme of Innovation in Science Pursuit for Inspired Research (INSPIRE). I am working under the supervision of Dr. P. Murugan, senior principal scientist and co-supervised by Dr. A. Pandikumar, senior scientist in the Electrochemical Power Sources division at CSIR-CECRI, Government of India.
+          I am presently pursuing a Ph.D. in Physical Sciences through the Academy of Scientific and Innovative Research (AcSIR) at the CSIR–Central Electrochemical Research Institute (CECRI), under the Ministry of Science and Technology, Government of India. I am a Senior Research Fellow (SRF) supported by the Department of Science and Technology (DST) under the prestigious Innovation in Science Pursuit for Inspired Research (INSPIRE) scheme. My research is being carried out under the supervision of Dr. P. Murugan, Senior Principal Scientist, and co-supervised by Dr. A. Pandikumar, Senior Scientist, under the Electrochemical Power Sources Division at CSIR–CECRI. 
 
       - layout: left
         title: Gandhigram Rural University-Ministry of Education, Govt. of India
@@ -116,7 +116,8 @@ content:
         caption: 2018 - 2020
         sub_title: Msc in Physics
         description: | # this will include new lines to allow paragraphs
-          I completed my M.Sc. in Physical Sciences from 2018 to 2020, achieving First Class with Distinction and securing the University 1st Rank with a Gold Medal. During this time, I also participated in the 7th IIST Astronomy and Astrophysics School, held at the Indian Institute of Space Science and Technology (IIST), Trivandrum, from December 10 to 19, 2018. I undertook a six-month research project at the Kodaikanal Solar Observatory, from September 2019 to February 2020, at the Indian Institute of Astrophysics.
+          I completed my M.Sc. in Physical Sciences from 2018 to 2020, Gandhigram Rural University, Ministry of Education, Govt. of India. Achieving First Class with Distinction and securing the University 1st Rank with a Gold Medal. I During this time, I also participated in the 7th IIST Astronomy and Astrophysics School, held at the Indian Institute of Space Science and Technology (IIST), Trivandrum, from December 10 to 19, 2018. I undertook a six-month research project at the Kodaikanal Solar Observatory, from September 2019 to February 2020, at the Indian Institute of Astrophysics.
+
 
       - layout: left
         title: University of Calicut, Higher Education Department, Govt. of Kerala, India
@@ -124,8 +125,7 @@ content:
         caption: 2014 - 2017
         sub_title: Bsc in Physics
         description: | # this will include new lines to allow paragraphs
-          During my undergraduate years, I actively engaged in a variety of cultural and scientific activities. I took part in university-level cultural festivals and attended robotics workshops organized by the Indian Institute of Technology, Chennai. Additionally, I held the role of Fine Arts secretary and served as the editor of the college magazine.
-      
+          I completed my B.Sc. in Physical Sciences from the University of Calicut, under the Higher Education Department, Government of Kerala, India, during the period August 2014 to July 2017, graduating with a CGPA of 4.62/6 and earning a First Class with Distinction. In recognition of my academic excellence and research potential, I was awarded financial assistance by the Kerala State Council for Science, Technology and Environment (KSCSTE) in 2017 for my undergraduate project. Beyond academics, I was actively involved in a diverse range of scientific and cultural activities. I participated in university-level cultural festivals, attended robotics workshops organized by the Indian Institute of Technology (IIT) Madras, and held key leadership roles within the college community. I served as the Fine Arts Secretary and also took on editorial responsibilities as the Editor of the College Magazine.      
   - title: Publications
     layout: list
     content:
@@ -169,22 +169,22 @@ content:
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
         <img src="images/IMG_1354.jpg" alt="Lab Setup" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Research setup at the lab</p>
+        <p>Demonstrating the super capacitor kits developed in our lab to school students to foster inspiration and enhance scientific temper among young minds.</p>
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
         <img src="images/IMG_9029.jpg" alt="Poster Presentation" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Poster presentation</p>
+        <p>Participating in the 2nd edition of the International Conference on Green Hydrogen (ICGH) - September 11-13, 2024, organized by the Ministry of New and Renewable Energy (MNRE), Ministry of Petroleum and Natural Gas, Department of Scientific and Industrial Research, Department of Science & Technology, and Office of Principal Scientific Adviser to the Government of India at Bharat Mandapam, New Delhi.</p>
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
         <img src="images/IMG_2885.jpg" alt="Catalyst Snapshot" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Catalyst synthesis snapshot</p>
+        <p>Receiving the Best Poster award at ICGH.</p>
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
         <img src="images/IMG_8999.jpg" alt="Group Discussion" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Group discussion on techniques</p>
+        <p>Receiving the Best Oral Presentation award at the International Conference on Advanced Materials for Energy, Environmental and Sensor Applications (ICAMEESA 2024).</p>
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
