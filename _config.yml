@@ -225,7 +225,7 @@ content:
       <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
       
         <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-          <img src="images/IMG_1354.jpg" alt="Lab Setup" style="width: 100%; height: 250px; object-fit: contain; border-radius: 8px;">
+          <img src="images/IMG_1354.jpg" alt="Lab Setup" style="width: 100%; height: 280px; object-fit: cover; border-radius: 8px;">
           <p>Demonstrating the super capacitor kits developed in our lab to school students to foster inspiration and enhance scientific temper among young minds.</p>
         </div>
 
