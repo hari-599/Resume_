@@ -146,13 +146,13 @@ content:
 
       - layout: top
         title: "K. N. Sathya Sai, Ardra S. Darsan, K. Wang, A. Pandikumar, S. M. Venkatakrishnan, Z. Hong, OH-enriched NiS/Ni₃S₂–Zr Heterostructure for Overall Water Splitting Performance in Alkaline Media"
-        link: https://www.researchgate.net/publication/380596780_OH-enriched_NiSNi3S2-Zr_Heterostructure_for_Overall_Water_Splitting_Performance_in_Alkaline_Media
+        link: https://pubs.acs.org/doi/10.1021/acsanm.4c01502
         caption: ACS Applied Nano Materials, 2024
 
       - layout: top
         title: "Ardra S. Darsan, P. Murugan, A. Pandikumar, Exploring Robust Electrocatalyst with Morphologically Tailored Spinel Cobaltite Nanostructures: An Experimental and Theoretical Insights"
         link: # Add link (e.g., NANOEN-D-25-02098 or final DOI)
-        caption: Nano Energy (Under Review)
+        caption: Journal of Materials Chemistry A (Under Review)
 
   - title: Awards, Grants and Fellowships
     layout: text
