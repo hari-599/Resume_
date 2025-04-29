@@ -153,6 +153,61 @@ content:
         title: "Ardra S. Darsan, P. Murugan, A. Pandikumar, Exploring Robust Electrocatalyst with Morphologically Tailored Spinel Cobaltite Nanostructures: An Experimental and Theoretical Insights"
         link: # Add link (e.g., NANOEN-D-25-02098 or final DOI)
         caption: Nano Energy (Under Review)
+  - title: Awards, Grants and Fellowships
+    layout: list
+    content:
+      - title: "Financial Assistance – Kerala State Council for Science, Technology and Environment"
+        caption: 2017
+      - title: "First Rank in Master's Program – Physical Sciences"
+        caption: University Level
+      - title: "INSPIRE Fellowship – Department of Science and Technology, Government of India"
+        caption: 2021
+      - title: "Best Poster Award – 2nd Int. Conf. on Green Hydrogen (ICGH)"
+        caption: Sep 2024, New Delhi
+      - title: "Best Oral Presentation – ICAMEESA 2024"
+        caption: Feb 2024, Kodaikanal
+      - title: "Best Poster Award – ICONN 2023"
+        caption: SRM Institute, 2023
+      - title: "Best Poster Award – SWAP 2023"
+        caption: Madurai Kamaraj University, 2023
+
+  - title: Teaching and Outreach Activities
+    layout: list
+    content:
+      - title: "Mentored 4 B.Tech students"
+        caption: Large-area electrodes for TRL 3 water-splitting prototype
+      - title: "Guided 6 Master's students"
+        caption: Projects on photoelectrocatalysis and electrocatalysis
+      - title: "Supported INSA visiting scientists & mentored junior researchers"
+        caption: Collaborative and mentoring activities
+      - title: "Boot Camp – Solar Energy Materials"
+        caption: Outreach to schools; hands-on science engagement
+      - title: "Volunteer – CSIR Phenome India (PI-CHeCK)"
+        caption: March 2024
+
+  - title: Conferences and Workshops
+    layout: list
+    content:
+      - title: "7th IIST Astronomy and Astrophysics School"
+        caption: Dec 2018, IIST
+      - title: "Poster – National Symposium in Chemistry, CRSI-ACS"
+        caption: Jul 2022, IISER Mohali
+      - title: "Poster – 22nd NCE"
+        caption: Aug 2022, PSG Tech
+      - title: "Poster – ICANEE 2023"
+        caption: Feb 2023, Alagappa University
+      - title: "Oral – ICWEC 2023"
+        caption: Apr 2023, IISc Bengaluru
+      - title: "Poster – IC-ECS 2023"
+        caption: Jun 2023, Amrita University
+      - title: "Poster – 23rd NCE"
+        caption: Jan 2024, SRM Institute
+      - title: "Participant – 7th Hydrogen Workshop"
+        caption: Oct 2024, CFCT-ARCI, Chennai
+      - title: "Participant – XRD Workshop"
+        caption: Dec 2024, CSIR-CECRI
+      - title: "Poster – iSAEST-13"
+        caption: Jan 2025, Kovalam
 
 
   # - title: A Little More About Me
@@ -203,8 +258,8 @@ content:
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images\IMG_1002.jpeg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Awarded the University Gold Medal for M.Sc. Physics, presented by the Prime Minister of India, with the honor highlighted through his official tweet.</p>
+        <img src="images\IMG_1003.jpeg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Research setup</p>
       </div>
 
 
