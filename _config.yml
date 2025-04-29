@@ -188,18 +188,23 @@ content:
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/IMG_1385.jpg" alt="SEM Results" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>SEM results on cobaltite</p>
+        <img src="images\IMG_1001.JPG" alt="SEM Results" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Our Research team</p>
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images\00d148f6-f324-4502-bce9-f0c88e6942fc.JPG" alt="DFT Simulation" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>DFT simulation in progress</p>
+        <img src="images\b4373b9e-120a-45e4-ab53-1c6e9c355e7e.JPG" alt="DFT Simulation" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Creating awareness among the general public about the importance of solar cells for household applications by showcasing large-area DSSCs and perovskite solar cells developed in our lab through Science-to-Society outreach events</p>
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
         <img src="images\IMG_9000.JPG" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Team collaboration</p>
+        <p>Attending a Lab-to-Industry workshop focused on the commercialization of hydrogen technologies</p>
+      </div>
+
+      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+        <img src="images\IMG_1002.jpeg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
+        <p>Awarded the University Gold Medal for M.Sc. Physics, presented by the Prime Minister of India, with the honor highlighted through his official tweet.</p>
       </div>
 
 
