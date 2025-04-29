@@ -153,6 +153,34 @@ content:
         title: "Ardra S. Darsan, P. Murugan, A. Pandikumar, Exploring Robust Electrocatalyst with Morphologically Tailored Spinel Cobaltite Nanostructures: An Experimental and Theoretical Insights"
         link: # Add link (e.g., NANOEN-D-25-02098 or final DOI)
         caption: Nano Energy (Under Review)
+
+  - title: Awards, Grants and Fellowships
+    layout: text
+    content: |
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        <div style="width: 48%; margin-bottom: 1rem;">
+          Received financial assistance from Kerala State Council for Science, Technology Environment in 2017, recognition of bachelor level project, showcasing academic excellence and innovation.
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          First rank at the university level in the master’s program in physical sciences discipline.
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          Received the prestigious INSPIRE Fellowship by the Department of Science and Technology, Ministry of Science and Technology, Government of India, in 2021 to pursue doctoral studies.
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          Best poster award – 2nd edition of the International Conference on Green Hydrogen (ICGH – 2024), New Delhi, Sep 11–13, 2024, jointly organized by MNRE, MoPNG, DSIR, DST, and PSA.
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          Best oral presentation award – International Conference on Advanced Materials for Energy, Environmental and Sensor Applications (ICAMEESA 2024), Feb 26–28, 2024, Mother Teresa Women’s University.
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          Best poster award – 7th International Conference on Nanoscience and Technology (ICONN-2023), SRM Institute of Science and Technology.
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          Best poster award – International Workshop on Solar Water Splitting and Artificial Photosynthesis (SWAP 2023), Madurai Kamaraj University.
+        </div>
+      </div>
+
   - title: Conferences and Workshops
     layout: text
     content: |
@@ -162,27 +190,27 @@ content:
           Dec 2018, IIST
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster – National Symposium in Chemistry and CRSI-ACS Symposium</strong><br/>
+          <strong>Poster Presentation– National Symposium in Chemistry and CRSI-ACS Symposium</strong><br/>
           Jul 2022, IISER Mohali
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster – 22nd National Convention of Electrochemists (NCE 22)</strong><br/>
+          <strong>Poster Presentation– 22nd National Convention of Electrochemists (NCE 22)</strong><br/>
           Aug 2022, PSG TECH
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster – ICANEE-2023</strong><br/>
+          <strong>Poster Presentation– ICANEE-2023</strong><br/>
           Feb 2023, Alagappa University
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Oral – ICWEC 2023</strong><br/>
+          <strong>Oral Presentation– ICWEC 2023</strong><br/>
           Apr 2023, IISc Bengaluru
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster – IC-ECS 2023</strong><br/>
+          <strong>Poster Presentation– IC-ECS 2023</strong><br/>
           Jun 2023, Amrita Vishwa Vidyapeetham
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster – NCE 2023</strong><br/>
+          <strong>Poster Presentation– NCE 2023</strong><br/>
           Jan 2024, SRM Institute
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
@@ -194,7 +222,7 @@ content:
           Dec 2024, CSIR-CECRI
         </div>
         <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster – iSAEST-13</strong><br/>
+          <strong>Poster Presentation– iSAEST-13</strong><br/>
           Jan 2025, Kovalam, Kerala
         </div>
       </div>
