@@ -223,51 +223,51 @@ content:
     layout: text
     content: |
       <div style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+      
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/IMG_1354.jpg" alt="Lab Setup" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Demonstrating the super capacitor kits developed in our lab to school students to foster inspiration and enhance scientific temper among young minds.</p>
+        </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/IMG_1354.jpg" alt="Lab Setup" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Demonstrating the super capacitor kits developed in our lab to school students to foster inspiration and enhance scientific temper among young minds.</p>
-      </div>
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/IMG_9029.jpg" alt="Poster Presentation" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Participating in the 2nd edition of the International Conference on Green Hydrogen (ICGH)...</p>
+        </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/IMG_9029.jpg" alt="Poster Presentation" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Participating in the 2nd edition of the International Conference on Green Hydrogen (ICGH) - September 11-13, 2024, organized by the Ministry of New and Renewable Energy (MNRE), Ministry of Petroleum and Natural Gas, Department of Scientific and Industrial Research, Department of Science & Technology, and Office of Principal Scientific Adviser to the Government of India at Bharat Mandapam, New Delhi.</p>
-      </div>
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/IMG_2885.jpg" alt="Catalyst Snapshot" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Receiving the Best Oral Presentation award at ICAMEESA 2024.</p>
+        </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/IMG_2885.jpg" alt="Catalyst Snapshot" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Receiving the Best Oral Presentation award at the International Conference on Advanced Materials for Energy, Environmental and Sensor Applications (ICAMEESA 2024).</p>
-      </div>
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images/IMG_8999.jpg" alt="Group Discussion" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Receiving the Best Poster award at ICGH.</p>
-      </div>
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/IMG_8999.jpg" alt="Group Discussion" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Receiving the Best Poster award at ICGH.</p>
+        </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images\IMG_1001.JPG" alt="SEM Results" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Our Research team</p>
-      </div>
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/IMG_1001.JPG" alt="SEM Results" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Our Research team</p>
+        </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images\b4373b9e-120a-45e4-ab53-1c6e9c355e7e.JPG" alt="DFT Simulation" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Creating awareness among the general public about the importance of solar cells for household applications by showcasing large-area DSSCs and perovskite solar cells developed in our lab through Science-to-Society outreach events</p>
-      </div>
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/b4373b9e-120a-45e4-ab53-1c6e9c355e7e.JPG" alt="DFT Simulation" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Creating awareness among the public about solar cells for household applications...</p>
+        </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images\IMG_9000.JPG" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Attending a Lab-to-Industry workshop focused on the commercialization of hydrogen technologies</p>
-      </div>
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/IMG_9000.JPG" alt="Team Collaboration" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Attending a Lab-to-Industry workshop on hydrogen technologies.</p>
+        </div>
 
-      <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images\IMG_1003.jpeg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Research setup</p>
-      </div>
-            <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
-        <img src="images\Picture1.jpg" alt="Team Collaboration" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Received Gold Medal by the Prime Minister of India for securing the First Rank in the university for M.Sc. in Physics.</p>
-      </div>
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/IMG_1003.jpeg" alt="Research Setup" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Research setup</p>
+        </div>
 
-
+        <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
+          <img src="images/Picture1.jpg" alt="Gold Medal" style="width: 100%; height: 250px; object-fit: cover; border-radius: 8px;">
+          <p>Received Gold Medal by the Prime Minister of India for securing First Rank in M.Sc. Physics.</p>
+        </div>
 
       </div>
 
