@@ -153,61 +153,51 @@ content:
         title: "Ardra S. Darsan, P. Murugan, A. Pandikumar, Exploring Robust Electrocatalyst with Morphologically Tailored Spinel Cobaltite Nanostructures: An Experimental and Theoretical Insights"
         link: # Add link (e.g., NANOEN-D-25-02098 or final DOI)
         caption: Nano Energy (Under Review)
-  - title: Awards, Grants and Fellowships
-    layout: list
-    content:
-      - title: "Financial Assistance – Kerala State Council for Science, Technology and Environment"
-        caption: 2017
-      - title: "First Rank in Master's Program – Physical Sciences"
-        caption: University Level
-      - title: "INSPIRE Fellowship – Department of Science and Technology, Government of India"
-        caption: 2021
-      - title: "Best Poster Award – 2nd Int. Conf. on Green Hydrogen (ICGH)"
-        caption: Sep 2024, New Delhi
-      - title: "Best Oral Presentation – ICAMEESA 2024"
-        caption: Feb 2024, Kodaikanal
-      - title: "Best Poster Award – ICONN 2023"
-        caption: SRM Institute, 2023
-      - title: "Best Poster Award – SWAP 2023"
-        caption: Madurai Kamaraj University, 2023
-
-  - title: Teaching and Outreach Activities
-    layout: list
-    content:
-      - title: "Mentored 4 B.Tech students"
-        caption: Large-area electrodes for TRL 3 water-splitting prototype
-      - title: "Guided 6 Master's students"
-        caption: Projects on photoelectrocatalysis and electrocatalysis
-      - title: "Supported INSA visiting scientists & mentored junior researchers"
-        caption: Collaborative and mentoring activities
-      - title: "Boot Camp – Solar Energy Materials"
-        caption: Outreach to schools; hands-on science engagement
-      - title: "Volunteer – CSIR Phenome India (PI-CHeCK)"
-        caption: March 2024
-
   - title: Conferences and Workshops
-    layout: list
-    content:
-      - title: "7th IIST Astronomy and Astrophysics School"
-        caption: Dec 2018, IIST
-      - title: "Poster – National Symposium in Chemistry, CRSI-ACS"
-        caption: Jul 2022, IISER Mohali
-      - title: "Poster – 22nd NCE"
-        caption: Aug 2022, PSG Tech
-      - title: "Poster – ICANEE 2023"
-        caption: Feb 2023, Alagappa University
-      - title: "Oral – ICWEC 2023"
-        caption: Apr 2023, IISc Bengaluru
-      - title: "Poster – IC-ECS 2023"
-        caption: Jun 2023, Amrita University
-      - title: "Poster – 23rd NCE"
-        caption: Jan 2024, SRM Institute
-      - title: "Participant – 7th Hydrogen Workshop"
-        caption: Oct 2024, CFCT-ARCI, Chennai
-      - title: "Participant – XRD Workshop"
-        caption: Dec 2024, CSIR-CECRI
-      - title: "Poster – iSAEST-13"
-        caption: Jan 2025, Kovalam
+    layout: text
+    content: |
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>7th IIST Astronomy and Astrophysics School</strong><br/>
+          Dec 2018, IIST
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Poster – National Symposium in Chemistry and CRSI-ACS Symposium</strong><br/>
+          Jul 2022, IISER Mohali
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Poster – 22nd National Convention of Electrochemists (NCE 22)</strong><br/>
+          Aug 2022, PSG TECH
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Poster – ICANEE-2023</strong><br/>
+          Feb 2023, Alagappa University
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Oral – ICWEC 2023</strong><br/>
+          Apr 2023, IISc Bengaluru
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Poster – IC-ECS 2023</strong><br/>
+          Jun 2023, Amrita Vishwa Vidyapeetham
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Poster – NCE 2023</strong><br/>
+          Jan 2024, SRM Institute
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Workshop – 7th Hydrogen Workshop</strong><br/>
+          Oct 2024, CFCT-ARCI Chennai
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Workshop – X-ray Diffraction</strong><br/>
+          Dec 2024, CSIR-CECRI
+        </div>
+        <div style="width: 48%; margin-bottom: 1rem;">
+          <strong>Poster – iSAEST-13</strong><br/>
+          Jan 2025, Kovalam, Kerala
+        </div>
+      </div>
 
 
   # - title: A Little More About Me
