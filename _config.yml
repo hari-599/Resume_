@@ -180,6 +180,27 @@ content:
           Best poster award – International Workshop on Solar Water Splitting and Artificial Photosynthesis (SWAP 2023), Madurai Kamaraj University.
         </div>
       </div>
+  - title: Teaching and Outreach Activities
+    layout: text
+    content: |
+      <div style="display: flex; flex-direction: column; gap: 1rem;">
+        <div>
+          Monitored 4 B. Tech students specializing in Chemical and Electrochemical Engineering for their year-long final-year project. The project focused on advancing electrocatalysis by designing and fabricating large-area electrodes to achieve Technology Readiness Level 3. Extended studies on developing a scalable prototype for water splitting applications. Guided experimental planning, material synthesis, electrode fabrication, and performance evaluation, while fostering a deeper understanding of the practical and theoretical aspects of electrochemical energy conversion technologies.
+        </div>
+        <div>
+          Monitored 6 master’s students during their final-year thesis projects, focusing on the development of efficient catalysts for both photoelectrocatalytic and electrocatalytic water-splitting applications. Provided comprehensive guidance in catalyst design, synthesis, and performance evaluation, integrating both theoretical principles and experimental techniques.
+        </div>
+        <div>
+          Supported four INSA (Indian National Science Academy) visiting scientists and project students by assisting with specialized research tasks and collaborative projects. Actively contributed to mentoring junior PhD scholars and project assistants, promoting teamwork and fostering a dynamic, collaborative research environment.
+        </div>
+        <div>
+          Conducted a two-day boot camp for school students and teachers on ‘Solar Energy Materials,’ focusing on bridging scientific concepts with practical applications. Participated in training and awareness programs at rural schools, delivering lectures and facilitating hands-on sessions to inspire young minds, promote scientific temper among students, connect science with society, and encourage a deeper understanding of renewable energy solutions.
+        </div>
+        <div>
+          Worked as a volunteer for CSIR-National Mission Project, Phenome India – CSIR Health Cohort Knowledgebase (PI-CHeCK), during March 14–18, 2024.
+        </div>
+      </div>
+
 
   - title: Conferences and Workshops
     layout: text
