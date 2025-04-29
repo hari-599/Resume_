@@ -202,52 +202,6 @@ content:
       </div>
 
 
-  - title: Conferences and Workshops
-    layout: text
-    content: |
-      <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>7th IIST Astronomy and Astrophysics School</strong><br/>
-          Dec 2018, IIST
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster Presentation– National Symposium in Chemistry and CRSI-ACS Symposium</strong><br/>
-          Jul 2022, IISER Mohali
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster Presentation– 22nd National Convention of Electrochemists (NCE 22)</strong><br/>
-          Aug 2022, PSG TECH
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster Presentation– ICANEE-2023</strong><br/>
-          Feb 2023, Alagappa University
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Oral Presentation– ICWEC 2023</strong><br/>
-          Apr 2023, IISc Bengaluru
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster Presentation– IC-ECS 2023</strong><br/>
-          Jun 2023, Amrita Vishwa Vidyapeetham
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster Presentation– NCE 2023</strong><br/>
-          Jan 2024, SRM Institute
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Workshop – 7th Hydrogen Workshop</strong><br/>
-          Oct 2024, CFCT-ARCI Chennai
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Workshop – X-ray Diffraction</strong><br/>
-          Dec 2024, CSIR-CECRI
-        </div>
-        <div style="width: 48%; margin-bottom: 1rem;">
-          <strong>Poster Presentation– iSAEST-13</strong><br/>
-          Jan 2025, Kovalam, Kerala
-        </div>
-      </div>
-
 
   # - title: A Little More About Me
   #   layout: text
