@@ -168,7 +168,7 @@ content:
   - title: Awards, Grants and Fellowships
     layout: text
     content: |
-      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; font-size: 1.05rem; line-height: 1.6;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; font-size: 1.4rem; line-height: 1.6;">
         <div style="width: 48%; margin-bottom: 1rem;">
           Received financial assistance from Kerala State Council for Science, Technology Environment in 2017, recognition of bachelor level project, showcasing academic excellence and innovation.
         </div>
@@ -195,7 +195,7 @@ content:
   - title: Teaching and Outreach Activities
     layout: text
     content: |
-      <div style="display: flex; flex-direction: column; gap: 1rem; font-size: 1.05rem; line-height: 1.6;">
+      <div style="display: flex; flex-direction: column; gap: 1rem; font-size: 1.4rem; line-height: 1.6;">
         <div>
           Monitored 4 B. Tech students specializing in Chemical and Electrochemical Engineering for their year-long final-year project. The project focused on advancing electrocatalysis by designing and fabricating large-area electrodes to achieve Technology Readiness Level 3. Extended studies on developing a scalable prototype for water splitting applications. Guided experimental planning, material synthesis, electrode fabrication, and performance evaluation, while fostering a deeper understanding of the practical and theoretical aspects of electrochemical energy conversion technologies.
         </div>
