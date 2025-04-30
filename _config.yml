@@ -67,9 +67,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          My PhD work titled **Morphologically Tailored Modified Transition Metal Based Bifunctional Catalysts for Overall Water Splitting: A Comprehensive Experimental and Theoretical Study**, aligned with the **Green Hydrogen Mission**, my work focuses on designing and fabricating nanocomposites with tailored structures using strategies like **doping, heterostructure engineering, and composite formation**. I aim to develop **cost-effective, eco-friendly transition metal oxides** as bifunctional catalysts for **electrocatalytic water splitting**, offering a sustainable alternative to platinum- and ruthenium-based catalysts.
-
-          Alongside experiments, I use **Density Functional Theory (DFT)** to study the **structural, mechanical, and electronic properties** of these materials, ensuring a comprehensive experimental and theoretical approach.
+          My PhD work titled **Morphologically Tailored Modified Transition Metal Based Bifunctional Catalysts for Overall Water Splitting: A Comprehensive Experimental and Theoretical Study**, aligned with the **Green Hydrogen Mission**, my work focuses on designing and fabricating nanocomposites with tailored structures using strategies like **doping, heterostructure engineering, and composite formation**. I aim to develop **cost-effective, eco-friendly transition metal oxides** based bifunctional catalysts for **electrocatalytic water splitting**, offering a sustainable alternative to platinum- and ruthenium-based catalysts.Along with experiments, I use **Density Functional Theory (DFT)** to study the **structural, mechanical, and electronic properties** of these materials, ensuring a comprehensive experimental and theoretical approach.
       - layout: top-middle
         title: Triggering of Solar Flares due to Sunspot Growth
         # link: github.com/sproogen
@@ -240,7 +238,7 @@ content:
       </div>
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
         <img src="images/IMG_8999.jpg" alt="Group Discussion" style="width: 100%; max-width: 100%; border-radius: 8px;">
-        <p>Receiving the Best Poster award at ICGH.</p>
+        <p>Presenting our poster at ICGH 2024, awarded Best Poster.</p>
       </div>
 
       <div style="flex: 0 1 calc(50% - 16px); text-align: center;">
