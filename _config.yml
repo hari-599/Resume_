@@ -80,7 +80,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-         For my postgraduate project, I conducted an in-depth study on the **triggering of solar flares due to sunspot** growth under the guidance of Dr. Selvendran, Principal Scientific Officer at the Kodaikanal Solar Observatory, from September 2019 to February 2020 at the **Indian Institute of Astrophysics**.
+         For my postgraduate project, I conducted an in-depth study on the **triggering of solar flares due to sunspot growth** under the guidance of Dr. Selvendran, Principal Scientific Officer at the Kodaikanal Solar Observatory, from September 2019 to February 2020 at the **Indian Institute of Astrophysics**.
 
           This research analyzed how the **evolution and transformation of sunspot groups** contribute to the formation of different types of **solar flares (e.g., 2b, 1n, Sn, and 2f)**. Additionally, it explored the structural significance of the Sun, the dynamic phenomena across its various layers, and their potential impact on Earth.
       - layout: top-middle
@@ -114,7 +114,7 @@ content:
         caption: 2018 - 2020
         sub_title: M.Sc. in Physics
         description: | # this will include new lines to allow paragraphs
-          I completed my M.Sc. in Physical Sciences from 2018 to 2020, Gandhigram Rural University, Ministry of Education, Govt. of India. Achieving First Class with Distinction and securing the University 1st Rank with a Gold Medal. I During this time, I also participated in the 7th IIST Astronomy and Astrophysics School, held at the Indian Institute of Space Science and Technology (IIST), Trivandrum, from December 10 to 19, 2018. I undertook a six-month research project at the Kodaikanal Solar Observatory, from September 2019 to February 2020, at the Indian Institute of Astrophysics.
+          I completed my M.Sc. in Physical Sciences from 2018 to 2020, Gandhigram Rural University, Ministry of Education, Govt. of India. Achieving First Class with Distinction and securing the University 1st Rank with a Gold Medal. During this time, I also participated in the 7th IIST Astronomy and Astrophysics School, held at the Indian Institute of Space Science and Technology (IIST), Trivandrum, from December 10 to 19, 2018. I undertook a six-month research project at the Kodaikanal Solar Observatory, from September 2019 to February 2020, at the Indian Institute of Astrophysics.
 
 
       - layout: left
