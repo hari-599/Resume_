@@ -82,7 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
          For my postgraduate project, I conducted an in-depth study on the **triggering of solar flares due to sunspot growth** under the guidance of Dr. Selvendran, Principal Scientific Officer at the Kodaikanal Solar Observatory, from September 2019 to February 2020 at the **Indian Institute of Astrophysics**.
 
-          This research analyzed how the **evolution and transformation of sunspot groups** contribute to the formation of different types of **solar flares (e.g., 2b, 1n, Sn, and 2f)**. Additionally, it explored the structural significance of the Sun, the dynamic phenomena across its various layers, and their potential impact on Earth.
+          This research analyzed how the **evolution and transformation of sunspot groups** contribute to the formation of different types of **solar flares (e.g, 2b, 1n, Sn, and 2f)**. Additionally, it explored the structural significance of the Sun, the dynamic phenomena across its various layers, and their potential impact on Earth.
       - layout: top-middle
         title: Analysis of Various Astronomical Parameters Using Virtual Observatory
         # link: github.com/sproogen
